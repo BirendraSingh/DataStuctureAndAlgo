@@ -1,5 +1,11 @@
 package com.bishtb.sorting;
 
+/**
+ * Max profit share trading problem
+ * @author birendra
+ *
+ */
+
 public class MaxSubArrayProblem {
 
 	public static void main(String[] args) {
